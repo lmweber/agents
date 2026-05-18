@@ -6,6 +6,8 @@ This project contains three related folders:
 - `analyses/`: repository containing analysis scripts
 - `paper/`: manuscript files
 
+Git repositories are stored in the subdirectories for the R package (`package/`) and analysis scripts (`analyses/`). The overall project/workspace directory does not contain a Git repository.
+
 When working in this project:
 
 - Treat this directory as the project/workspace root.
